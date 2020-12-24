@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-In this code I use two various fuzzy c-means algorithms.
+This code uses two various fuzzy c-means algorithms.
 
   - Classical FCM
   - Enhanced FCM 
