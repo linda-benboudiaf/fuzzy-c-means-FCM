@@ -1,1 +1,1 @@
-# fuzzy-c-means-FCM
+# Diffrent Implementation of FCM
