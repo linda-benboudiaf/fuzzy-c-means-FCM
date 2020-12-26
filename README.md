@@ -35,6 +35,3 @@ python3 EnFCM.py  OR python3 FCM.py
 - [1] [EnFCM](resources/FCM_UsingHistogram.pdf)
 - [2] [FCM](resources/Robust_FCM_Model.pdf)
 - Both papers were used to understand FCM & EnFCM. 
-
-### Repository code inspiration 
-[Repo link](https://github.com/ab93/SIFCM)
